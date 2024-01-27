@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <g id="Search" transform="translate(-215 -92)">
+    <g id="Path_23573" data-name="Path 23573" transform="translate(215 92)" fill="none">
+      <path d="M0,0H40V40H0Z" stroke="none"/>
+      <path d="M 1 1 L 1 39 L 39 39 L 39 1 L 1 1 M 0 0 L 40 0 L 40 40 L 0 40 L 0 0 Z" stroke="none" fill="#474747"/>
+    </g>
+    <g id="Icon_feather-search" data-name="Icon feather-search" transform="translate(222.117 99.117)">
+      <path id="Path_23638" data-name="Path 23638" d="M19.4,11.952A7.452,7.452,0,1,1,11.952,4.5,7.452,7.452,0,0,1,19.4,11.952Z" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Path_23639" data-name="Path 23639" d="M29.027,29.027l-4.052-4.052" transform="translate(-7.76 -7.76)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    </g>
+  </g>
+</svg>
